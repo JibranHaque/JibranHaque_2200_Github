@@ -1,6 +1,6 @@
 /*
  * @author: Jibran Haque
- * 10/11/2022 [F)
+ * 10/11/2022 [F}
  */
 
 import java.util.Scanner;
